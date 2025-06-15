@@ -1,0 +1,33 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.pyenv/
+virtualenv/
+.env/
+.envs/
+
+# Logs and databases
+logs/
+*.log
+*.sqlite
+*.sql
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

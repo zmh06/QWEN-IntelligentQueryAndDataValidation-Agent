@@ -1,0 +1,11 @@
+# 数据库配置示例文件
+# 请复制此文件为 db_config.yaml 并填写实际值
+
+# 数据库连接配置
+# 请根据您的实际情况修改以下值
+database:
+  host: "localhost"      # 数据库主机地址
+  port: 3306             # 数据库端口
+  user: "your_username"  # 数据库用户名
+  password: "your_password"  # 数据库密码
+  db: "your_database_name"   # 要使用的数据库名称
